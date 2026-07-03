@@ -67,28 +67,31 @@ The API was successfully tested using **Postman**.
 
 Tested Endpoints
 
-- ✅ GET /
-- ✅ GET /health
-- ✅ POST /predict
+- GET /
+- GET /health
+- POST /predict
 
 ---
-# 🚀 API Endpoints Demonstration
+# 🚀Demonstrations
 
-## 🟢 Home
+## Home
 
 **GET /**
+<img src="images/home.png" width="650">
 
-
-## ❤️ Health Check
+## Health Check
 
 **GET /health**
-
-
----
+<img src="images/health.png" width="650">
 
 ## 🤖 Predict Income
 
 **POST /predict**
+<img src="images/predict_url.png" width="650">
+<img src="images/predict.png" width="650">
+
+## ⚙️Deployment
+<img src="images/Deployment.png" width="650">
 
 ---
 
