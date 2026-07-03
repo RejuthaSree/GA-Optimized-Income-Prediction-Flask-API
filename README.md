@@ -4,7 +4,7 @@ A production-ready Flask REST API that serves predictions using a **Genetic Algo
 
 The API predicts whether an individual's annual income is **greater than $50K** or **less than or equal to $50K** based on demographic and employment-related features.
 
----
+
 
 # 🌐 Live API
 
@@ -12,7 +12,7 @@ The API predicts whether an individual's annual income is **greater than $50K** 
 
 https://ga-optimized-income-prediction-flask-api.onrender.com
 
----
+
 
 # 📌 Project Overview
 
@@ -28,7 +28,7 @@ The machine learning model was trained using:
 - Flask REST API
 - Render Cloud Deployment
 
----
+
 
 # ⚙️ Technologies Used
 
@@ -43,7 +43,7 @@ The machine learning model was trained using:
 - Render
 - Git & GitHub
 
----
+
 
 # 📂 Repository Structure
 
@@ -60,7 +60,7 @@ GA-Optimized-Income-Prediction-Flask-API/
 ├── README.md
 ```
 
----
+
 # 🧪 API Testing
 
 The API was successfully tested using **Postman**.
@@ -71,7 +71,7 @@ Tested Endpoints
 - GET /health
 - POST /predict
 
----
+
 # 🚀Demonstrations
 
 ## Home
@@ -93,7 +93,7 @@ Tested Endpoints
 ## ⚙️Deployment
 <img src="images/Deployment.png" width="650">
 
----
+
 
 # 🧠 Model Information
 
@@ -118,7 +118,7 @@ Tested Endpoints
 - capital_loss
 - hours_per_week
 
----
+
 
 # ▶️ Run Locally
 
@@ -152,7 +152,7 @@ or
 flask run
 ```
 
----
+
 
 # ☁️ Deployment
 
@@ -162,7 +162,7 @@ Live URL
 
 https://ga-optimized-income-prediction-flask-api.onrender.com
 
----
+
 
 # 📚 Related Project
 
