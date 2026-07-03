@@ -75,20 +75,20 @@ Tested Endpoints
 # 🚀Demonstrations
 
 ## Home
-
 **GET /**
-<img src="images/home.png" width="650">
+
+<img src="images/home.png" width="400">
 
 ## Health Check
-
 **GET /health**
-<img src="images/health.png" width="650">
+
+<img src="images/health.png" width="400">
 
 ## 🤖 Predict Income
-
 **POST /predict**
-<img src="images/predict_url.png" width="650">
-<img src="images/predict.png" width="650">
+
+<img src="images/predict_url.png" width="400">
+<img src="images/predict.png" width="400">
 
 ## ⚙️Deployment
 <img src="images/Deployment.png" width="650">
